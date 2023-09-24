@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: font1;
+    /* src: url(font/JosefinSans-VariableFont_wght.ttf); */
+    src: url(font1/Mooli/Mooli-Regular.ttf);
+}
+body{
+    background-color:white;
+    font-family:font1;
+    width: 100%;
+    text-transform: capitalize;
+    /* overflow-x: hidden; */
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style-type: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
