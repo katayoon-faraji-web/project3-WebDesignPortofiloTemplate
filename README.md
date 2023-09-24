@@ -6,7 +6,7 @@
 
 ![project2](https://github.com/katayoon-faraji-web/project2/assets/144775981/2a6767ea-b60c-4641-91ad-f035d7873589)
 
-- [Demo Project](file:///E:/front%20end/front%20%D8%AC%D9%84%D8%B3%D9%87%2010/project1/index.html)
+- [Demo Project](https://katayoon-faraji-web.github.io/project3/)
 
 - Developed by katayoon faraji
 
