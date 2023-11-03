@@ -3,7 +3,7 @@
 
 ![project3](https://github.com/katayoon-faraji-web/project3/assets/144775981/b7d15c61-4ae1-47d2-978b-f0c724ce2f52)
 
-- [Demo Project](https://katayoon-faraji-web.github.io/project3/)
+- [Demo Project](https://katayoon-faraji-web.github.io/project3-WebDesignPortofiloTemplate/)
 
 - Developed by katayoon faraji
 
